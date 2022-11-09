@@ -376,6 +376,10 @@ ul {
   margin: -1px;
 }
 
+.section {
+  padding: 94px 0;
+}
+
 .section-activity {
   padding-top: 0;
 }
@@ -1094,10 +1098,6 @@ ul {
 .net-list__link--bgd {
   color: rgb(255, 255, 255);
   background-color: rgba(255, 255, 255, 0.1);
-}
-
-.section {
-  padding: 94px 0;
 }
 
 .section-title {
